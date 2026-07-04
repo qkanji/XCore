@@ -15,5 +15,12 @@ temp.log
 temp.errors
 *.ini
 .d/
+template/
+
+# Local deployment tooling (machine-specific paths, run manually per-dev)
+deploy-depot.bat
+dist/
 include/pros
 firmware
+include/lemlib
+include/fmt
