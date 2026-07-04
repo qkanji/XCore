@@ -24,3 +24,7 @@ include/pros
 firmware
 include/lemlib
 include/fmt
+
+project.pros
+Makefile
+common.mk
