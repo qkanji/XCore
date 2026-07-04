@@ -24,6 +24,7 @@ include/pros
 firmware
 include/lemlib
 include/fmt
+include/liblvgl
 
 project.pros
 Makefile
